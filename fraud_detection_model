@@ -1,0 +1,9 @@
+# 💳 Fraud Detection Machine Learning App
+
+## 📌 Overview
+This project is a **Machine Learning-powered Fraud Detection System** that predicts whether a given financial transaction is fraudulent or legitimate.  
+It uses a trained ML model (`fraud_detection_model.pkl`) and provides an **interactive Streamlit web app** for real-time predictions.
+
+---
+
+## 📂 Project Structure
